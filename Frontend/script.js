@@ -1,5 +1,4 @@
-
-
+// This script is for the testimonials of the webpage
 document.addEventListener("DOMContentLoaded", () => {
     const wrapper = document.querySelector(".testimonials-wrapper");
     const testimonials = document.querySelectorAll(".testimonial");
