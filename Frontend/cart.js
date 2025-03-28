@@ -18,7 +18,7 @@ function increaseQuantity(id) {
 
 function removeItem(id) {
     // In a real implementation, you would remove the item from the cart
-    // For this demo, we'll just alert
+    // For this demo, we'll alert
     alert(`Item ${id} removed from cart`);
 }
 
