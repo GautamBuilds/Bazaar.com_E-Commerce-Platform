@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // Optional: Auto-slide every 5 seconds
-    setInterval(() => {
+     => {
         currentIndex++;
         if (currentIndex >= totalTestimonials) {
             currentIndex = 0;
